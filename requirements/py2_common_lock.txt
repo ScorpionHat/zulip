@@ -108,4 +108,4 @@ ujson==1.35
 uritemplate==3.0.0
 urllib3==1.21.1
 wcwidth==0.1.7            # via prompt-toolkit
-werkzeug==0.12.2          # via flask
+werkzeug==0.15.3          # via flask
