@@ -69,7 +69,7 @@ google-api-python-client==1.6.2
 
 # Needed for the email mirror
 html2text==2016.9.19
-httplib2==0.10.3
+httplib2==0.18.0
 
 # Needed for JWT-based auth
 PyJWT==1.5.0
