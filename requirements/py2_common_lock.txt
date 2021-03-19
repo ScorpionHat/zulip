@@ -50,7 +50,7 @@ ipaddress==1.0.18         # via cryptography
 ipython-genutils==0.2.0   # via traitlets
 ipython==5.4.1
 itsdangerous==0.24        # via flask
-jinja2==2.9.6
+jinja2==2.11.3
 lxml==3.8.0
 markdown-include==0.5.1
 markdown==2.6.8           # via markdown-include
