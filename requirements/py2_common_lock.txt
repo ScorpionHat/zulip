@@ -75,7 +75,7 @@ pyasn1==0.2.3
 pycparser==2.17           # via cffi
 pycrypto==2.6.1
 pydns==2.3.6
-pygments==2.2.0           # via ipython
+pygments==2.7.4           # via ipython
 pyjwt==1.5.0
 pylibmc==1.5.2
 pyopenssl==17.0.0         # via ndg-httpsclient
