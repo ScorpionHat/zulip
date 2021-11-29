@@ -80,7 +80,7 @@ pyjwt==1.5.0
 pylibmc==1.5.2
 pyopenssl==17.0.0         # via ndg-httpsclient
 python-gcm==0.4
-python-ldap==2.4.39
+python-ldap==3.4.0
 python-openid==2.2.5
 python-twitter==3.3
 pytz==2017.2
